@@ -69,4 +69,4 @@ services:
 #     driver_opts:
 #       share_name: fullstackapp22
 #       storage_account_name: fullstackapp22
-#       storage_account_key: gJNl7BqJGqG7y+fbwJWRAx5UwYy3vvTP9cuHAh5r2re6nU507lyvM8I1b70cqwAyByKov4/AHj1D+AStXuZfTw==
+#       storage_account_key: 
